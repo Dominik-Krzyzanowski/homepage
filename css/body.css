@@ -1,0 +1,40 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    margin: 10px auto;
+    padding: 10px;
+    max-width: 950px;
+    background-color: #e4e9f1;
+    color: #131212;
+    text-align: center;
+    color: #131212;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.3;
+}
+
+.body__container--gif {
+    padding: 5px;
+    margin: 15px 0;
+    border-radius: 25% / 10%;
+    width: 100%;
+}
+
+.body__container--image {
+    margin: 20px auto;
+    border-radius: 30px;
+    border: 2px solid #0453c9de;
+    margin: 15px;
+    box-shadow: -3px -3px 5px 2px #6499FC,
+        5px 5px 5px 2px #D8D6D7;
+}
+
+.hidden {
+    /* the class responsible for hide and show the informations about author of the website.*/
+    display: none;
+}

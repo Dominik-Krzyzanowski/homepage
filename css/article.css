@@ -1,0 +1,29 @@
+.article {
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.article__header {
+    padding: 5px;
+    margin: 10px auto;
+    box-shadow: -3px -3px 5px 2px #6499FC,
+        5px 5px 5px 2px #D8D6D7;
+    background-color: #0453c9de;
+    color: #e4e9f1;
+    text-shadow: 3px 3px 8px #131212;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.article__box {
+    margin: 20px auto;
+    border: 3px solid #0453c9de;
+    border-radius: 20px;
+    box-shadow: -3px -3px 5px 2px #6499FC,
+        5px 5px 5px 2px #D8D6D7;
+}
+
+.article__container {
+    overflow-x: auto;
+}

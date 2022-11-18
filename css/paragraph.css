@@ -1,0 +1,10 @@
+.paragraph {
+    margin: 0;
+    padding: 10px;
+    text-align: justify;
+}
+
+.paragraphs__textMarks  {
+    font-weight: normal;
+    font-style: normal;
+}
