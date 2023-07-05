@@ -9,3 +9,5 @@ section__button.addEventListener("click", () => {
         ? "Pokaż informacje o autorze"
         : "Ukryj informacje o autorze"; //this instruction shows or hide informations aobut author of the website
 });
+
+// Testing with Git
