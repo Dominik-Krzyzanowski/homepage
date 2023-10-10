@@ -3,7 +3,7 @@
         console.log("Hello! Welcome on my website.");
     }
 
-    const hideAuthorInfoClick = () => {
+    const hideAuthorSection = () => {
         const author = document.querySelector(".author")
         author.classList.toggle("hidden");
 
@@ -15,7 +15,7 @@
 
     const init = () => {
         const hideSection = document.querySelector(".js-button");
-        hideSection.addEventListener("click", hideAuthorInfoClick);
+        hideSection.addEventListener("click", hideAuthorSection);
 
         welcome();
     }
