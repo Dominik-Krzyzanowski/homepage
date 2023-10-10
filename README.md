@@ -1,5 +1,5 @@
 # Dominik Krzyżanowski
-![Dominik](images/dominik.jpg)
+<img class="picture" src="images/dominik.jpg" height="300" alt="consultants"><br>
 ## 💪 Homapage - my first website
 Do not forget to visit my website 👉 [*homepage*](https://dominik-krzyzanowski.github.io/homepage/) 👈
 
