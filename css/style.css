@@ -6,10 +6,6 @@ html {
     box-sizing: inherit;
 }
 
-.author--hidden .hidden {
-    
-}
-
 .body {
     margin: 10px auto;
     padding: 10px;
@@ -38,7 +34,7 @@ html {
         5px 5px 5px 2px #D8D6D7;
 }
 
-.hidden {
+.author--hidden {
     /* the class responsible for hide and show the informations about author of the website.*/
     display: none;
 }
