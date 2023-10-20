@@ -6,6 +6,10 @@ html {
     box-sizing: inherit;
 }
 
+.author--hidden .hidden {
+    
+}
+
 .body {
     margin: 10px auto;
     padding: 10px;
